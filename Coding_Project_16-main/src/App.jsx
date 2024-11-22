@@ -1,12 +1,7 @@
 import { useState } from 'react'
 import { ProductList } from './components/ProductList';
-import {ProductItem} from './components/ProductItem';
 import { AddProductForm } from './components/AddProductForm';
 import './App.css'
-
-import React, { useState } from 'react';
-import ProductList from './ProductList';
-import AddProductForm from './AddProductForm';
 
 function App() {
   //  product list
